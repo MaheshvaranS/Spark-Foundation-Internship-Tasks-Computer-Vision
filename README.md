@@ -17,3 +17,12 @@ colab:https://colab.research.google.com/drive/164eACXInV7OrWCp3ZH06z53Hb4ZTa4w_?
 
 linkedin:https://www.linkedin.com/posts/activity-6888453068468424704-UMKL
 
+
+
+
+TASK-2
+Color Identification In Image
+
+#GRIPJANUARY22
+youtube: https://youtu.be/16nbMSEH6Rc 
+
