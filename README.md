@@ -8,7 +8,9 @@ using yolo model weights and imageai package so that i can achive more accurate 
 
 
 #GRIPJANUARY22
+
 #thesparksfoundation
+
 #intern
 
 youtube:https://youtu.be/YPvTg3-X8SQ
@@ -28,7 +30,9 @@ TASK-2
 Color Identification In Image
 
 #GRIPJANUARY22
+
 #thesparksfoundation
+
 #intern
 
 youtube:https://youtu.be/16nbMSEH6Rc 
