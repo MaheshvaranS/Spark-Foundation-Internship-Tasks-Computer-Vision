@@ -1,5 +1,5 @@
 # Spark-Foundation-Internship-Tasks-Computer-Vision
-you can try this code on google colab https://colab.research.google.com/drive/164eACXInV7OrWCp3ZH06z53Hb4ZTa4w_?usp=sharing
+
 
 TASK-1
 Object Detection Using Yolo
@@ -18,6 +18,7 @@ colab:https://colab.research.google.com/drive/164eACXInV7OrWCp3ZH06z53Hb4ZTa4w_?
 linkedin:https://www.linkedin.com/posts/activity-6888453068468424704-UMKL
 
 
+*************************************************************************************************************
 
 
 TASK-2
