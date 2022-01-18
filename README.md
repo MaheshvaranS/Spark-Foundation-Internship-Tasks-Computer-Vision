@@ -25,5 +25,8 @@ TASK-2
 Color Identification In Image
 
 #GRIPJANUARY22
-youtube: https://youtu.be/16nbMSEH6Rc 
+youtube:https://youtu.be/16nbMSEH6Rc 
 
+github:https://github.com/MaheshvaranS/Spark-Foundation-Internship-Tasks-Computer-Vision/tree/main/TASK-2
+
+linkedin:
